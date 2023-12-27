@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Victor Nestali. 👨🏻‍💻
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victornestalidev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devnestali/)
+
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=devnestali&show_icons=true&theme=radical)
 
 
