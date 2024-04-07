@@ -13,5 +13,6 @@
 </div>
 
 Passionate about programming and technologies. Always learning 🚀
+</br>
 Apaixonado por programação e tecnologias. Sempre aprendendo 🚀 [pt-BR]
 
