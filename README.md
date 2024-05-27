@@ -6,7 +6,7 @@
 
 - 🌱 Learning:  **NodeJS, ReactJS, TypeScript**
 
-- 👨‍💻 Personal Portfolio: [https://victor-nestali-portfolio.netlify.app/](https://victor-nestali-portfolio.netlify.app/)
+- 👨‍💻 Personal Portfolio: **[https://victor-nestali-portfolio.netlify.app/](https://victor-nestali-portfolio.netlify.app/)**
 
 - 📫 Email: **victornestali@gmail.com**
 
