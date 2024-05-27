@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Nestali</h1>
 <h3 align="center">Passionate about programming and its technologies 🖥️👨🏻‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVsczNjOG52bWhlcGp5aDY4dzl0d3FoenJudHB4bGJ0cWhpczFpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif">
+<br>
 
 
 - 🌱 Learning:  **NodeJS, ReactJS, TypeScript**
