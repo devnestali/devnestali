@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor Nestali</h1>
 <h3 align="center">Passionate about programming and its technologies 🖥️👨🏻‍💻</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/transparent-5eLDrEaRGHegx2FeF2">
+<img align="right" alt="Coding" width="400" src="https://i0.wp.com/physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif?resize=326%2C245&ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnestali&label=Profile%20views&color=0e75b6&style=flat" alt="devnestali" /> </p>
 
