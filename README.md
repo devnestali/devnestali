@@ -68,5 +68,9 @@
 
 ###
 
+<h3 align="left">Stats</h3>
+
+###
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devnestali&show_icons=true&theme=transparent)
 
