@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">I'm passionate about programming and I am always learning and developing as a programmer and professional 🚀</h3>
+<h3 align="left">I'm passionate about programming and I am always learning and developing as a programmer and professional. 🚀</h3>
 
 ###
 
