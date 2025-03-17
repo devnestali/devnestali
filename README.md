@@ -8,7 +8,7 @@
 
 ###
 
-<h5 align="left">⭐ Main Language:</h5>
+<h5 align="left">⭐ Main Language: </h5>
 
 
 <div align="left">
@@ -19,7 +19,7 @@
 
 ###
 
-<h5 align="left">📡 Backend:</h5>
+<h5 align="left">📡 Backend: </h5>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h5 align="left">💻 FrontEnd:</h5>
+<h5 align="left">💻 FrontEnd: </h5>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<h5 align="left">📦 Version code control | ⚒️ Tools:</h5>
+<h5 align="left">📦 Version code control | ⚒️ Tools: </h5>
 
 ###
 
