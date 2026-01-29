@@ -1,11 +1,9 @@
-<h1 align="left">Hello 👋!! My name is Victor and I'm a Software Developer and Software Engineering 🖥️
-</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=5000&color=F7F007&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ###
 
 <h3 align="left">
-  Driven by a passion for coding and committed to growing every day as a software developer and software engineering 🚀
+  Driven by a passion for coding and committed to growing every day as a Software Developer and Software Engineering 🚀
 </h3>
 
 ###
@@ -117,6 +115,8 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devnestali&show_icons=true&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=devnestali)
+
+
 
 
